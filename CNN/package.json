@@ -1,0 +1,8 @@
+{
+  "name": "CNN",
+  "version": "1.0.0",
+  "dependencies": {
+  },
+  "reference" : "https://blog.csdn.net/m0_61407792/article/details/120482478",
+  "模型构造方法": "https://blog.csdn.net/q923714892/article/details/118412319"
+}
